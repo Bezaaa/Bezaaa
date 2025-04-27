@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Beza
 
 
-# 👋 Hi there, I'm Beza
+
 
 ## 🧑‍💻 Frontend Developer, diving into Fullstack Development
 
@@ -12,7 +12,7 @@
 - 🎯 Always pushing boundaries and exploring new technologies
 - 📚 **Currently learning:** Backend with Go, Fullstack with Django
 - 📈 **Check out my LeetCode Profile:** [LeetCode Profile](https://leetcode.com/u/Bezawit_Teshome/)
-- 🔗 **Previously active on my old GitHub profile:** [Old GitHub Profile](https://github.com/Bezawit1)
+- 🔗 **Previously active on my old GitHub profile:** [Old GitHub Profile](https://github.com/Bezawit1)  now building everything here!
 
 
 

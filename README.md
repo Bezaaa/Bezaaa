@@ -1,23 +1,19 @@
 # 👋 Hi there, I'm Beza
 
 
-🧑‍💻 Frontend Developer, diving into Fullstack Development
+# 👋 Hi there, I'm Beza
 
-🌍 Passionate about building impactful and scalable web applications
+## 🧑‍💻 Frontend Developer, diving into Fullstack Development
 
-🛠️ Tech Stack: React, Next.js, TypeScript, Node.js, Django, Go
+- 🌍 Passionate about building impactful and scalable web applications
+- 🛠️ **Tech Stack:** React, Next.js, TypeScript, Node.js, Django, Go
+- ⚔️ **Competitive Programming:** 550+ LeetCode problems solved
+- 🧠 Lifelong learner — constantly sharpening my problem-solving skills
+- 🎯 Always pushing boundaries and exploring new technologies
+- 📚 **Currently learning:** Backend with Go, Fullstack with Django
+- 📈 **Check out my LeetCode Profile:** [LeetCode Profile](https://leetcode.com/u/Bezawit_Teshome/)
+- 🔗 **Previously active on my old GitHub profile:** [Old GitHub Profile](https://github.com/Bezawit1)
 
-⚔️ Active in Competitive Programming (550+ LeetCode problems solved)
-
-🧠 Lifelong learner — constantly sharpening my problem-solving skills
-
-🎯 Always pushing boundaries and exploring new technologies
-
-📚 Currently learning: Backend with Go, Fullstack with Django
-
-📈 Check out my LeetCode Profile  https://leetcode.com/u/Bezawit_Teshome/
-
-🔗 Previously active on my old GitHub profile  https://github.com/Bezawit1 , now building everything here!
 
 
 ## 🌐 Socials:

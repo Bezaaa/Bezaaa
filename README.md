@@ -1,4 +1,5 @@
-👋 Hi there, I'm Beza
+# 👋 Hi there, I'm Beza
+
 
 🧑‍💻 Frontend Developer, diving into Fullstack Development
 

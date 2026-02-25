@@ -10,8 +10,8 @@
 - 🚀 Performance Optimization: Reduced application load times by 47% and client-side resource weight by 73% through streaming architectures and parallel data fetching.
 - 🏗️ Infrastructure & Scalability: Experienced in containerization and orchestrating high-availability environments with load balancing to ensure resilient, production-ready systems.
 - 🎯 Always pushing boundaries and exploring new technologies
-- 🧠 Lifelong learner — constantly sharpening my problem-solving skills
-- 🎯 Always pushing boundaries and exploring new technologies
+- 🧠 Lifelong learner  constantly sharpening my problem-solving skills
+  
 
 
 

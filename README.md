@@ -6,8 +6,7 @@
 ## 🧑‍💻  Full-Stack Software Engineer | Performance & Systems Specialist
 
 - 🌍 Passionate about building impactful and scalable web applications
-- ⚔️ **Competitive Programming:** 600+ LeetCode problems solved
-- 🚀 Performance Optimization: Reduced application load times by 47% and client-side resource weight by 73% through streaming architectures and parallel data fetching.
+- 🚀 Performance Optimization: Focused on reducing application load times and client-side resource weight through streaming architectures and parallel data-fetching strategies.
 - 🏗️ Infrastructure & Scalability: Experienced in containerization and orchestrating high-availability environments with load balancing to ensure resilient, production-ready systems.
 - 🎯 Always pushing boundaries and exploring new technologies
 - 🧠 Lifelong learner  constantly sharpening my problem-solving skills
